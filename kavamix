@@ -1,0 +1,73 @@
+def func1(arg1, arg2):
+    var3 = func4()
+    if arg1 < arg1:
+        var8 = class5()
+    else:
+        var8 = class7()
+    for var9 in range(36):
+        var8.func6(arg2, var9)
+    var29 = func9(var3, arg2)
+    var34 = func12(arg1, arg2)
+    if var34 < var34:
+        var35 = var34 - var3
+    else:
+        var35 = arg1 - (54 - var3) - var29 + (arg1 - (arg2 | 708009244) & ((var3 - ((arg2 | (arg2 + arg2 & 718 - var29 ^ var29) ^ 308 | var34) - var29)) ^ var34) ^ -676 & var34 & var3 + -556)
+    var36 = ((arg1 + arg1 | 1556744575 & (1864827198 + (((145 ^ (var3 ^ var34 - -643)) & arg2) & arg1))) & var3) & (-2100131664 & arg2 ^ (var34 - arg1 + arg1))
+    result = -639 & arg2
+    return result
+def func12(arg30, arg31):
+    var32 = 0
+    for var33 in xrange(27):
+        if arg31 < var32:
+            var32 += var33 + arg31
+        else:
+            var32 += (arg30 + var33) ^ var33
+    return var32
+def func11(arg12, arg13):
+    var14 = 1165311839 + arg12
+    var15 = arg12 & 1667954761
+    var16 = -866643443 | arg12
+    var17 = arg12 - 297 ^ var14 + var14
+    var18 = (-555 & 733 & arg12) & var16
+    var19 = -947 ^ arg13 + 541 - -496
+    var20 = ((var16 + -824639979) + var18) & var17
+    var21 = var18 | var14
+    var22 = arg13 & arg13 & var18
+    var23 = var22 ^ arg13
+    var24 = var16 ^ var16 & (var19 - var16)
+    if arg12 < var15:
+        var25 = var15 - var17 & var15 + var16
+    else:
+        var25 = -333337423 ^ (arg12 - var17 - -229251390)
+    var26 = (var23 + -592340438) + -235 | var15
+    var27 = 598 & var22 ^ var22 ^ var16
+    result = var17 + (var17 + var22) + var15 ^ var14
+    return result
+class class7(object):
+    def func6(self, arg6, arg7):
+        return 0
+class class5(class7):
+    def func6(self, arg4, arg5):
+        result = (arg4 ^ (0 - (arg5 - arg4)) ^ 1413561221 - arg5) & arg5
+        return result
+def func4():
+    func2()
+    result = len((2 | (i + 2) for i in range(18)))
+    func3()
+    return result
+def func3():
+    global len
+    del len
+def func2():
+    global len
+    len = lambda x : 9
+def func9(arg10, arg11):
+    def func10(acc, rest):
+        var28 = func11(acc, -3)
+        if acc == 0:
+            return var28
+        else:
+            result = func10(acc - 1, var28)
+            return result
+    result = func10(10, 0)
+    return result
